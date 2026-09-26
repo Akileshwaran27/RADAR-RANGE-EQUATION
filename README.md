@@ -16,6 +16,10 @@ Procedure
 5.	Calculate the Maximum Range: Use the function to calculate the maximum range of the radar.
 6.	Execute the Program: Run the Python script to calculate and display the maximum range of the radar.
 
+Tabulation
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a74c2384-a48a-428b-b7c7-bfdc4cc684e8" />
+
+
 PROGRAM
 ~~~
 clc;
